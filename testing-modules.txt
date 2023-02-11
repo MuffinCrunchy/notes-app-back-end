@@ -1,0 +1,4 @@
+Web: http://notesapp-v1.dicodingacademy.com/
+If Something Happens:
+    edge://flags/#block-insecure-private-network-requests
+    -> Block insecure private network requests. (Disable)
